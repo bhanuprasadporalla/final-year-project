@@ -1,0 +1,25 @@
+﻿path: C:/yolov11-nigth-vision-updated/dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: airplane
+  5: bus
+  6: train
+  7: truck
+  8: boat
+  9: bird
+  10: cat
+  11: dog
+  12: horse
+  13: sheep
+  14: cow
+  15: elephant
+  16: bear
+  17: zebra
+  18: giraffe

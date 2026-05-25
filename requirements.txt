@@ -1,0 +1,7 @@
+﻿streamlit>=1.38.0
+ultralytics>=8.3.0
+opencv-python>=4.10.0
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.32.0
+streamlit-autorefresh>=1.0.1
